@@ -1,0 +1,261 @@
+@media(max-width:9999px){
+    .phone {
+        right: 5%;
+    }
+    .phone img{
+        width: 350px;
+    }
+  
+}
+@media(max-width:1399px){
+    .phone {
+        right: 5%;
+    }
+    .phone img{
+        width: 350px;
+    }
+    /*.contact_form {
+        padding: 70px;
+        width: 70%;
+    }*/
+   
+}
+@media(max-width:1199px){
+    .phone {
+        right: 5%;
+    }
+    .phone img{
+        width: 350px;
+    }
+    .client{
+        justify-content: center;
+    }
+    .theme_section p {
+        font-size: 20px;
+    }
+    .btn_feature {
+        padding: 5px 5px;
+        font-size: 15px;
+        margin-left: 0; 
+    }
+    .btn_download {
+        padding: 5px 5px;
+        font-size: 15px;
+    }
+    .price_table h2 {
+        padding: 5px 0;
+    }
+    .price {
+        padding: 5px 0;
+    }
+    .price_table p {
+        padding: 15px;
+    }
+    .contact_heading h3 {
+        margin-bottom: 0; 
+    }
+    .contact_form {
+        padding: 30px;
+        width: 80%;
+    }
+  
+}
+
+@media(max-width:991px){
+    .phone {
+        right: 5%;
+    }
+    .phone img{
+        width: 350px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .client{
+        justify-content: center;
+    }
+    .theme_section p{
+        font-size: 15px;
+    }
+    .btn_download {
+        padding: 5px 5px;
+        font-size: 10px;
+    }
+    .btn_feature {
+        padding: 5px 5px;
+        font-size: 10px;
+        margin-left: 0;
+    }
+    .pricing_heading h3 {
+        margin-bottom: 0; 
+    }
+    .price_table h2 {
+        padding: 5px 0;
+    }
+    .price {
+        padding: 6px 0;
+    }
+    .price_table p {
+        padding: 10px;
+    }
+    .btn_buy {
+        padding: 5px 10px;
+        margin-top: 15px;
+        font-size: 15px;
+    }
+    .contact_heading h3 {
+        margin-bottom: 5px;
+    }
+    .contact_form {
+        padding: 26px;
+        width: 80%;
+    }
+    .owl-nav{
+        display: none;
+    }
+}
+@media(max-width:767px){
+    .navbar-brand img{
+        width: 90px;
+    }
+    .nav-item {
+        padding-left: 0; 
+    }
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .phone {
+        display: none;
+    }
+    .btn_feature {
+        padding: 8px 5px;
+        margin-left: 5px;
+        font-size: 10px;
+    }
+    .btn_download {
+        padding: 8px 5px;
+        font-size: 10px;
+    }
+    .height {
+        text-align: center;
+    }
+    .banner_img_phone{
+        display: block;
+        text-align: center;
+    }
+    .banner_img_phone img{
+        width: 180px;
+        margin-bottom: 10px;
+    }
+    .height {
+        padding-bottom: 20px;
+    }
+    .testimonial_section {
+        padding: 30px 0;
+    }
+    .theme_section{
+        height: 143px;
+    }
+    .theme_section p {
+        font-size: 15px;
+    }
+    .contact_form {
+        padding: 15px;
+        width: 80%;
+        bottom: -96px;
+    }
+    .owl-nav{
+        display: none;
+    }
+}
+
+@media(max-width:575px){
+    .navbar-brand img{
+        width: 90px;
+    }
+    .nav-item {
+        padding-left: 0; 
+    }
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .phone {
+        display: none;
+    }
+    .btn_feature {
+        padding: 8px 5px;
+        margin-left: 5px;
+        font-size: 10px;
+    }
+    .btn_download {
+        padding: 8px 5px;
+        font-size: 10px;
+    }
+    .height {
+        text-align: center;
+    }
+    .banner_img_phone{
+        display: block;
+        text-align: center;
+    }
+    .banner_img_phone img{
+        width: 180px;
+        margin-bottom: 10px;
+    }
+    .height {
+        padding-bottom: 20px;
+    }
+    .feature_content {
+        margin: 50px 0;
+    }
+    .feature_icon {
+        margin-bottom: 0;
+    }
+
+    .testimonial_section{
+       padding-left: 4px;
+    }
+    .theme_section {
+        height: 300px;
+        text-align: center;
+    }
+    .pricing_heading h6 {
+        margin-bottom: 5px; 
+    }
+    .pricing_heading h3 {
+        margin-bottom: 0;
+    }
+    .contact_form {
+        padding: 14px;
+        width: 85%;
+        bottom: -90px;
+    }
+    .contact_form form input[type="submit"] {
+        padding: 5px 5px;
+        font-size: 10px;
+    }
+    .contact_heading h3 {
+        margin-bottom: 0; 
+    }
+    .price_table h2 {
+        padding: 10px 0;
+    }
+    .price {
+        padding: 10px 0;
+    }
+    .price_table p {
+        padding: 25px;
+    }
+    .owl-nav{
+        display: none;
+    }
+}
